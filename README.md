@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorgem55
 - 👀 I’m interested in desktop development, -Python -Bash/Batch -C/C++
 - 🌱 I’m currently learning Python/Django
-- 💞️ I’m looking to collaborate on some innovative project
+- 💞️ I’m looking for collaborate on some innovative project
 - 📫 How to reach me: linkedin.com/in/jmartinez55
 
 <!---
